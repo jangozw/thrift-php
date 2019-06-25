@@ -1,0 +1,10 @@
+{
+    "name": "jangozw/thrift-php",
+    "authors": [
+        {
+            "name": "jiangge",
+            "email": "jiangge@in66.com"
+        }
+    ],
+    "require": {}
+}
