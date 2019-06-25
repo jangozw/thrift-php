@@ -11,4 +11,6 @@ class Thrift
     public static function test(){
         return 'aaaa';
     }
+
+    public static function test2(){}
 }
